@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-compodoc"
+    }
+  },
+  "defaultProject": "angular-compodoc",
+  "cli": {
+    "analytics": false
+  }
 }
